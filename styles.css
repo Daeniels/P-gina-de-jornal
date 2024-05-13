@@ -14,9 +14,15 @@ padding:0;
 }
 
 .principal{
-    background-image: url(download);
+    background-image: url(download-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 .conteiner{
     height: 100vh;
+}
+.conteiner_Botão{
+background-color: var(--botao-azul);
+border-radius: 5px;
 }
